@@ -1,6 +1,6 @@
 # Compras semanales para la familia (5 personas)
 
-> Precios **estimados** (Lima, conocimiento general, no consultados en vivo). Variación ±15 %. Orientación general, no prescripción médica.
+> Precios marcados **[R]** son **reales** (ticket de Tottus del usuario; los pesos por unidad de palta, plátano, papaya y brócoli son supuestos). Los demás son **estimados**. Orientación general, no prescripción médica.
 
 ## Idea general
 - **Los padres** siguen el menú de 7 días con déficit calórico.
@@ -22,56 +22,57 @@ El de 18 años no necesita suplementos si come bien; si quiere usarlos, que lo c
 |---|---|---|---|
 | Proteínas y lácteos | Pollo (1 kg pechuga + 2 kg pierna/muslo + extra) | 4 kg | 58 |
 | Proteínas y lácteos | Pescado fresco (jurel/caballa/bonito) | 2,5 kg | 40 |
-| Proteínas y lácteos | Atún en agua | 6 latas | 33 |
+| Proteínas y lácteos | Atún (filete en lata) [R] | 6 latas | 27.6 |
 | Proteínas y lácteos | Carne de res (bistec o molida magra) | 1 kg | 28 |
-| Proteínas y lácteos | Huevos | 6 docenas | 51 |
-| Proteínas y lácteos | Queso fresco | 750 g | 19 |
-| Proteínas y lácteos | Yogur natural sin azúcar | 3 kg | 33 |
-| Proteínas y lácteos | Leche (UHT o fresca) | 8 L | 40 |
-| | *Subtotal Proteínas y lácteos* | | *302* |
-| Menestras y granos | Lentejas | 1 kg | 9 |
-| Menestras y granos | Frejoles | 1 kg | 12 |
-| Menestras y granos | Quinua | 750 g | 21 |
+| Proteínas y lácteos | Huevos, paquetes de 30 [R] | 72 huevos (2,4 paquetes) | 39.6 |
+| Proteínas y lácteos | Queso fresco [R] | 750 g (3 de 250 g) | 50.7 |
+| Proteínas y lácteos | Skyr natural 500 g, alta proteína [R] | 2 potes (1 kg) | 35 |
+| Proteínas y lácteos | Yogur natural convencional | 2 kg | 22 |
+| Proteínas y lácteos | Leche UHT entera [R] | 8 L | 48.8 |
+| | *Subtotal Proteínas y lácteos* | | *349.7* |
+| Menestras y granos | Lentejas [R] | 1 kg | 7.2 |
+| Menestras y granos | Frejoles [R] | 1 kg | 7 |
+| Menestras y granos | Quinua [R] | 750 g | 10.4 |
 | Menestras y granos | Arroz integral | 1,5 kg | 15 |
 | Menestras y granos | Arroz blanco | 2 kg | 9 |
-| Menestras y granos | Avena en hojuelas | 1,2 kg | 12 |
-| Menestras y granos | Pan integral | 3 bolsas | 27 |
-| Menestras y granos | Fideos / pasta | 1 kg | 8 |
-| | *Subtotal Menestras y granos* | | *113* |
-| Verduras y tubérculos | Camote | 3 kg | 12 |
+| Menestras y granos | Avena en hojuelas 800 g [R] | 1,2 kg (1,5 bolsas) | 27 |
+| Menestras y granos | Pan de quinua/integral [R] | 3 bolsas | 32.7 |
+| Menestras y granos | Fideos / spaghetti [R] | 1 kg (2 de 500 g) | 5 |
+| | *Subtotal Menestras y granos* | | *113.3* |
+| Verduras y tubérculos | Camote [R] | 3 kg | 12.3 |
 | Verduras y tubérculos | Papa | 4 kg | 12 |
-| Verduras y tubérculos | Tomate | 3 kg | 13.5 |
+| Verduras y tubérculos | Tomate [R] | 3 kg | 27.9 |
 | Verduras y tubérculos | Cebolla roja | 3 kg | 10.5 |
-| Verduras y tubérculos | Zanahoria | 2,5 kg | 7.5 |
+| Verduras y tubérculos | Zanahoria [R] | 2,5 kg | 12.5 |
 | Verduras y tubérculos | Espinaca | 5 atados | 10 |
-| Verduras y tubérculos | Brócoli | 3 unidades | 15 |
-| Verduras y tubérculos | Zapallo | 1,5 kg | 6 |
-| Verduras y tubérculos | Choclo | 4 unidades | 8 |
-| Verduras y tubérculos | Lechuga | 3 | 9 |
-| Verduras y tubérculos | Pepino | 8 | 8 |
-| Verduras y tubérculos | Arvejas | 750 g | 9 |
-| Verduras y tubérculos | Limones | 1,5 kg | 12 |
-| Verduras y tubérculos | Palta | 8 unidades | 24 |
+| Verduras y tubérculos | Brócoli [R] | 3 unidades | 11.6 |
+| Verduras y tubérculos | Zapallo [R] | 1,5 kg | 7.5 |
+| Verduras y tubérculos | Choclo [R] | 4 unidades | 14 |
+| Verduras y tubérculos | Lechuga [R] | 3 | 8.7 |
+| Verduras y tubérculos | Pepino [R] | 8 | 5.2 |
+| Verduras y tubérculos | Arvejas [R] | 750 g | 9.7 |
+| Verduras y tubérculos | Limones [R] | 1,5 kg | 5.6 |
+| Verduras y tubérculos | Palta fuerte [R] | 8 unidades | 41.7 |
 | Verduras y tubérculos | Ajo, culantro, perejil, ají amarillo | varios | 15 |
-| | *Subtotal Verduras y tubérculos* | | *171.5* |
-| Fruta | Plátano de seda | ≈30 | 15 |
-| Fruta | Manzana | 4 kg | 28 |
-| Fruta | Papaya | 3 medianas | 21 |
+| | *Subtotal Verduras y tubérculos* | | *204.2* |
+| Fruta | Plátano de seda [R] | ≈30 | 14.4 |
+| Fruta | Manzana Royal Gala [R] | 4 kg | 38 |
+| Fruta | Papaya [R] | 3 medianas | 30.7 |
 | Fruta | Mandarina | 3 kg | 13.5 |
-| Fruta | Naranja | 3 kg | 10.5 |
-| Fruta | Fruta de temporada (uvas, fresas, piña) | 2 kg | 14 |
-| | *Subtotal Fruta* | | *102* |
+| Fruta | Naranja de jugo [R] | 3 kg | 7.8 |
+| Fruta | Fruta de temporada (uva, piña) [R] | 2 kg | 18 |
+| | *Subtotal Fruta* | | *122.4* |
 | Grasas y frutos secos | Aceite de oliva extra virgen | 250 ml | 22 |
-| Grasas y frutos secos | Aceite vegetal | 1 L | 11 |
-| Grasas y frutos secos | Maní tostado sin sal | 600 g | 20 |
-| Grasas y frutos secos | Mantequilla de maní natural | 1 frasco | 18 |
-| | *Subtotal Grasas y frutos secos* | | *71* |
+| Grasas y frutos secos | Aceite vegetal 900 ml [R] | 1 botella | 5.7 |
+| Grasas y frutos secos | Maní tostado 250 g [R] | 750 g (3 potes) | 20.7 |
+| Grasas y frutos secos | Mantequilla de maní natural (La Purita, ~416 g) [R] | 1 frasco | 19.9 |
+| | *Subtotal Grasas y frutos secos* | | *68.3* |
 | Despensa y antojos controlados | Condimentos (sal, comino, orégano, ají panca) | varios | 10 |
 | Despensa y antojos controlados | Azúcar | 1 kg | 4.5 |
 | Despensa y antojos controlados | Antojos: galletas integrales, chocolate amargo, canchita | presupuesto | 25 |
 | | *Subtotal Despensa y antojos controlados* | | *39.5* |
 
-**TOTAL SEMANAL ≈ S/ 799** (rango realista S/ 700–900; ≈ S/ 23 por persona por día).
+**TOTAL SEMANAL ≈ S/ 897.4** (rango realista S/ 800–950; ≈ S/ 26 por persona por día. El costo sube frente al primer cálculo (S/ 800) sobre todo por la palta, el tomate, el queso fresco y el skyr).
 
 ## Cómo bajar el costo
 - **Compra mensual de no perecibles** (arroz, fideos, menestras, avena, aceite, atún, quinua, maní): reduce el gasto semanal y se aprovechan ofertas por volumen (p. ej. Makro).

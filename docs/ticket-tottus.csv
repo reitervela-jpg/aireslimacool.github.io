@@ -1,12 +1,12 @@
 categoria,producto_en_ticket,cantidad,precio_unitario_o_kg,total_S/
 proteina,2 PZAS BROASTE,1,,12.90
-proteina,HUEVOS PARDOS TO (tamano de paquete por confirmar),2,16.50,33.00
+proteina,HUEVOS PARDOS TO (paquete de 30 unidades; 60 huevos en total),2,16.50,33.00
 proteina,FIL ATUN TT 14 (lata),1,,4.60
 lacteo,QUE FRE EST 250 (queso fresco 250 g),2,16.90,33.80
-lacteo,YOGURT ESTILO IS (tamano por confirmar),2,17.50,35.00
-lacteo,UHT ENTERA (tamano por confirmar),1,,6.10
+lacteo,YOGURT ESTILO ISLANDES SKYR natural Plusa 500 g (55.6 kcal y 11.2 g proteina por 100 g),,2,17.50,35.00
+lacteo,UHT ENTERA (1 litro),1,,6.10
 grano,ARROZ EXTRA IN (tamano por confirmar),1,,3.75
-grano,AVENA EN HOJUE (tamano por confirmar),1,,18.00
+grano,AVENA EN HOJUELAS 800 g (106 kcal y 3.7 g proteina por 28 g),1,,18.00
 grano,QUINUA X KG,1.300 kg,13.90,18.07
 grano,PAN QUINUAS 60,1,,10.90
 grano,FIDEO GRANO DE (oro),1,,2.80
@@ -35,8 +35,8 @@ fruta,PINA GOLD M X KG (piña),1.985 kg,8.99,17.84
 fruta,PLAT SED PRIM X (platano de seda),1.730 kg,3.99,6.90
 fruta,UVA RED GLO 80 (uva),1,,13.90
 grasa/despensa,ACE VEG TO 900 (aceite vegetal 900 ml),1,,5.70
-grasa/despensa,TOTTUS MANI TO (mani; tamano por confirmar),1,,6.90
-grasa/despensa,MANTEQUILLA DE (probable mantequilla de mani),1,,19.90
+grasa/despensa,TOTTUS MANI TOSTADO 250 g (contiene mani; puede contener nueces y sulfitos),1,,6.90
+grasa/despensa,MANTEQUILLA DE MANI La Purita ~416 g (100 kcal y 5 g proteina por 16 g),1,,19.90
 grasa/despensa,FEAST PB 35GR,1,,7.90
 grasa/despensa,MAIZ MORADO X KG,1.145 kg,9.99,11.43
 antojo,CHOCOLATE 70G,1,,19.90
