@@ -14,7 +14,10 @@ Datos de la balanza; valores orientativos (la bioimpedancia varía con la hidrat
 | Metabolismo basal (IMB) | 1 750 kcal | 1 628 kcal |
 | Gasto con actividad (AMR) | 2 695 kcal | 2 149 kcal |
 | Edad corporal | 41 | 40 |
+| Cintura | 103 cm | 105 cm |
+| Brazo | 36 cm | 37 cm |
+| Cintura/talla (< 0,5 deseable) | 0,61 | 0,70 |
 
-**Pendiente:** el IMC de él (27,8) implica una talla de ≈ 168 cm, pero se había indicado 160 cm. Confirmar la talla.
+Talla de él confirmada: 168 cm (IMC 27,8). Ella: 150 cm.
 
 Las metas de la app de la balanza ("peso estándar" 66,8 y 56,0 kg) son genéricas. Metas por etapas sugeridas: 5–10 % del peso en 3–6 meses.
