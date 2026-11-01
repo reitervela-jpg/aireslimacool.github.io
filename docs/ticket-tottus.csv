@@ -1,0 +1,52 @@
+categoria,producto_en_ticket,cantidad,precio_unitario_o_kg,total_S/
+proteina,2 PZAS BROASTE,1,,12.90
+proteina,HUEVOS PARDOS TO (tamano de paquete por confirmar),2,16.50,33.00
+proteina,FIL ATUN TT 14 (lata),1,,4.60
+lacteo,QUE FRE EST 250 (queso fresco 250 g),2,16.90,33.80
+lacteo,YOGURT ESTILO IS (tamano por confirmar),2,17.50,35.00
+lacteo,UHT ENTERA (tamano por confirmar),1,,6.10
+grano,ARROZ EXTRA IN (tamano por confirmar),1,,3.75
+grano,AVENA EN HOJUE (tamano por confirmar),1,,18.00
+grano,QUINUA X KG,1.300 kg,13.90,18.07
+grano,PAN QUINUAS 60,1,,10.90
+grano,FIDEO GRANO DE (oro),1,,2.80
+grano,SPAGHETTI 500G,1,,2.20
+menestra,LENTEJA BB X KG,0.840 kg,7.20,6.04
+menestra,FRIJ CAST X KG (frijol castilla),0.965 kg,7.00,6.75
+menestra,ARVEJA PART X KG (arveja partida),0.620 kg,5.10,3.16
+verdura,ARVEJA AMERIC X KG,0.230 kg,12.99,2.98
+verdura,BROCOLI X KG,0.655 kg,5.90,3.86
+verdura,CAMOT MOR PROC (camote morado),2.095 kg,4.10,8.58
+verdura,CHOCLO SELEC X U,3,3.49,10.47
+verdura,ESPIN TOTTUS 4 (espinaca),1,,5.99
+verdura,LECHUG AMERIC (lechuga americana),1,,2.90
+verdura,LIMON TAHITI X K,1.415 kg,3.70,5.23
+verdura,PALT FU MAD EM X (palta fuerte),0.585 kg,17.99,10.52
+verdura,PAPA HUAYR PROC (papa huayro),2.270 kg,6.99,15.86
+verdura,PEPINILLO X KG,0.870 kg,3.49,3.03
+verdura,TOMATE REDONDO K,0.515 kg,9.29,4.78
+verdura,ZANAHORIA M X KG,0.615 kg,4.99,3.06
+verdura,ZAPAL CACAHUAT X (zapallo),1.025 kg,4.99,5.11
+fruta,FRES E 500G (fresa),1,,10.40
+fruta,MZ ROYAL GALA KG (manzana),1.780 kg,9.49,16.89
+fruta,NARANJA JUGO X K,3.600 kg,2.59,9.32
+fruta,PAPAYA X KG,1.768 kg,5.79,10.23
+fruta,PINA GOLD M X KG (piña),1.985 kg,8.99,17.84
+fruta,PLAT SED PRIM X (platano de seda),1.730 kg,3.99,6.90
+fruta,UVA RED GLO 80 (uva),1,,13.90
+grasa/despensa,ACE VEG TO 900 (aceite vegetal 900 ml),1,,5.70
+grasa/despensa,TOTTUS MANI TO (mani; tamano por confirmar),1,,6.90
+grasa/despensa,MANTEQUILLA DE (probable mantequilla de mani),1,,19.90
+grasa/despensa,FEAST PB 35GR,1,,7.90
+grasa/despensa,MAIZ MORADO X KG,1.145 kg,9.99,11.43
+antojo,CHOCOLATE 70G,1,,19.90
+antojo,BEB PWR FRUT 600,3,2.40,7.20
+antojo,POP CORN X KG,0.715 kg,5.10,3.64
+no_alimento,BOLSA REUTILIZABLE,2,5.90,11.80
+no_alimento,CEPILLO DENTAL,1,,14.90
+no_alimento,FRESH&MINTY TP,1,,15.50
+no_alimento,JAB PROT FRESH,1,,10.90
+no_alimento,SH OLD SPICE X3,1,,19.90
+no_alimento,SHM HS MIEL 65,1,,29.90
+no_alimento,SHM SAV MULT 5,1,,11.50
+descuento,Descuentos Tottus,,,-2.00
